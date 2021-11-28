@@ -60,9 +60,9 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman becomes a heroine of the Revolutionary War on the American frontier.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p><i>Betty Zane</i> is the first novel written by <a href="https://standardebooks.org/ebooks/zane-grey">Zane Grey</a>. It was published in 1903. It tells the romanticized story of the author’s great-great-aunt, who made a miraculous dash under hostile fire to save a frontier fort from Indian attack.</p>
-			<p>Fort Henry sat on the site of present-day Wheeling, West Virginia. One of a series of fortifications built to protect frontier settlers, the fort survived two sieges by native Americans, first in 1777 and again in 1782. In the 1782 siege the attacking tribes were joined by British soldiers. It is this siege and events leading up to it that are recounted in the novel.</p>
-			<p>The fort was commanded by Colonel Ebenezer Zane. It was the center of a small community, in which lived Colonel Zane’s brothers and his sister Betty. The author claimed to derive facts for his story from the personal notebook, preserved in his family, of his great-grandfather Ebenezer Zane. It is impossible for modern readers to separate established historical fact, the supposed contents of the notebook, and the author’s own imagination in the telling of the story. Certainly, some aspects of the tale, such as Betty’s romantic involvements, are entirely fictionalized. Equally certainly, major aspects of the tale, in particular Betty’s heroism during the siege, come straight from the pages of history.</p>
+			&lt;p&gt;&lt;i&gt;Betty Zane&lt;/i&gt; is the first novel written by &lt;a href="https://standardebooks.org/ebooks/zane-grey"&gt;Zane Grey&lt;/a&gt;. It was published in 1903. It tells the romanticized story of the author’s great-great-aunt, who made a miraculous dash under hostile fire to save a frontier fort from Indian attack.&lt;/p&gt;
+			&lt;p&gt;Fort Henry sat on the site of present-day Wheeling, West Virginia. One of a series of fortifications built to protect frontier settlers, the fort survived two sieges by native Americans, first in 1777 and again in 1782. In the 1782 siege the attacking tribes were joined by British soldiers. It is this siege and events leading up to it that are recounted in the novel.&lt;/p&gt;
+			&lt;p&gt;The fort was commanded by Colonel Ebenezer Zane. It was the center of a small community, in which lived Colonel Zane’s brothers and his sister Betty. The author claimed to derive facts for his story from the personal notebook, preserved in his family, of his great-grandfather Ebenezer Zane. It is impossible for modern readers to separate established historical fact, the supposed contents of the notebook, and the author’s own imagination in the telling of the story. Certainly, some aspects of the tale, such as Betty’s romantic involvements, are entirely fictionalized. Equally certainly, major aspects of the tale, in particular Betty’s heroism during the siege, come straight from the pages of history.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1261</dc:source>
@@ -80,7 +80,7 @@
 		<dc:contributor id="artist">George Catlin</dc:contributor>
 		<meta property="file-as" refines="#artist">Catlin, George</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Catlin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50035819</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50035819</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Bill Brewer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Brewer, Bill</meta>
@@ -120,10 +120,10 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/prologue.xhtml" id="prologue.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
