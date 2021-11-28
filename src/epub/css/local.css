@@ -11,6 +11,19 @@ section[epub|type~="dedication"] > *{
 	margin-top: 3em;
 	max-width: 80%;
 }
+
+[epub|type~="z3998:salutation"] + p,
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:recipient"],
+[epub|type~="z3998:salutation"],
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 	
 @supports(display: flex){
 	section[epub|type~="dedication"]{
