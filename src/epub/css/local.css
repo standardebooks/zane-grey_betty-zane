@@ -22,7 +22,6 @@ section[epub|type~="dedication"] > *{
 	font-variant: small-caps;
 }
 
-	
 @supports(display: flex){
 	section[epub|type~="dedication"]{
 		align-items: center;
@@ -33,7 +32,7 @@ section[epub|type~="dedication"] > *{
 		min-height: calc(98vh - 3em);
 		padding-top: 3em;
 	}
-	
+
 	section[epub|type~="dedication"] > *{
 		margin: 0;
 	}
