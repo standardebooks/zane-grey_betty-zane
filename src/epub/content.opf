@@ -32,13 +32,13 @@
 		<meta property="file-as" refines="#title">Betty Zane</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Biographical fiction</dc:subject>
-		<dc:subject id="subject-3">Women pioneers -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Frontier and pioneer life -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Zane, Betty -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Wetzel, Lewis, 1763-1808 -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Indians of North America -- Wars -- 1750-1815 -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Fort Henry (W. Va.) -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Ohio River Valley -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Women pioneers--Fiction</dc:subject>
+		<dc:subject id="subject-4">Frontier and pioneer life--Fiction</dc:subject>
+		<dc:subject id="subject-5">Zane, Betty--Fiction</dc:subject>
+		<dc:subject id="subject-6">Wetzel, Lewis, 1763-1808--Fiction</dc:subject>
+		<dc:subject id="subject-7">Indians of North America--Wars--1750-1815--Fiction</dc:subject>
+		<dc:subject id="subject-8">Fort Henry (W. Va.)--Fiction</dc:subject>
+		<dc:subject id="subject-9">Ohio River Valley--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
